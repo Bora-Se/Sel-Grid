@@ -17,8 +17,5 @@ public class Grid1 {
 
         System.out.println(driver.getCurrentUrl());
 
-
-
     }
-
 }

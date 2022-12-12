@@ -11,5 +11,6 @@ public class Grid2 {
         WebDriver driver = new RemoteWebDriver(new URL("http://192.168.0.178:4444"), new ChromeOptions());
 
         driver.get("https://www.google.com");
+
     }
 }
